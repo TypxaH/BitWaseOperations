@@ -1,0 +1,7 @@
+D:\11g MOP(Ruska)\BitwaseOperations\03_BitDestroyer\bin\Debug\03_BitDestroyer.exe.config
+D:\11g MOP(Ruska)\BitwaseOperations\03_BitDestroyer\bin\Debug\03_BitDestroyer.exe
+D:\11g MOP(Ruska)\BitwaseOperations\03_BitDestroyer\bin\Debug\03_BitDestroyer.pdb
+D:\11g MOP(Ruska)\BitwaseOperations\03_BitDestroyer\obj\Debug\03_BitDestroyer.csproj.AssemblyReference.cache
+D:\11g MOP(Ruska)\BitwaseOperations\03_BitDestroyer\obj\Debug\03_BitDestroyer.csproj.CoreCompileInputs.cache
+D:\11g MOP(Ruska)\BitwaseOperations\03_BitDestroyer\obj\Debug\03_BitDestroyer.exe
+D:\11g MOP(Ruska)\BitwaseOperations\03_BitDestroyer\obj\Debug\03_BitDestroyer.pdb

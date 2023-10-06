@@ -1,0 +1,6 @@
+D:\11g MOP(Ruska)\BitwaseOperations\02_ BitAtPosition1\bin\Debug\02_ BitAtPosition1.exe.config
+D:\11g MOP(Ruska)\BitwaseOperations\02_ BitAtPosition1\bin\Debug\02_ BitAtPosition1.exe
+D:\11g MOP(Ruska)\BitwaseOperations\02_ BitAtPosition1\bin\Debug\02_ BitAtPosition1.pdb
+D:\11g MOP(Ruska)\BitwaseOperations\02_ BitAtPosition1\obj\Debug\02_ BitAtPosition1.csproj.CoreCompileInputs.cache
+D:\11g MOP(Ruska)\BitwaseOperations\02_ BitAtPosition1\obj\Debug\02_ BitAtPosition1.exe
+D:\11g MOP(Ruska)\BitwaseOperations\02_ BitAtPosition1\obj\Debug\02_ BitAtPosition1.pdb

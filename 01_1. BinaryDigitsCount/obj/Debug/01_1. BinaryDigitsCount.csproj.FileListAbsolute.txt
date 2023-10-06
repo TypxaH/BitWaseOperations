@@ -1,0 +1,7 @@
+D:\11g MOP(Ruska)\BitwaseOperations\01_1. BinaryDigitsCount\bin\Debug\_01_1.BinaryDigitsCount.exe.config
+D:\11g MOP(Ruska)\BitwaseOperations\01_1. BinaryDigitsCount\bin\Debug\_01_1.BinaryDigitsCount.exe
+D:\11g MOP(Ruska)\BitwaseOperations\01_1. BinaryDigitsCount\bin\Debug\_01_1.BinaryDigitsCount.pdb
+D:\11g MOP(Ruska)\BitwaseOperations\01_1. BinaryDigitsCount\obj\Debug\01_1. BinaryDigitsCount.csproj.AssemblyReference.cache
+D:\11g MOP(Ruska)\BitwaseOperations\01_1. BinaryDigitsCount\obj\Debug\01_1. BinaryDigitsCount.csproj.CoreCompileInputs.cache
+D:\11g MOP(Ruska)\BitwaseOperations\01_1. BinaryDigitsCount\obj\Debug\_01_1.BinaryDigitsCount.exe
+D:\11g MOP(Ruska)\BitwaseOperations\01_1. BinaryDigitsCount\obj\Debug\_01_1.BinaryDigitsCount.pdb
